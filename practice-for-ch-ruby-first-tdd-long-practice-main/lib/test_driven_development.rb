@@ -5,5 +5,3 @@ def my_uniq(arr)
     end
     new_arr
 end
-
-def two_sum(arr)

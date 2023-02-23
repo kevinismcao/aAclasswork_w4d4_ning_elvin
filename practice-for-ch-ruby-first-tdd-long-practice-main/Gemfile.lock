@@ -23,8 +23,7 @@ GEM
     rspec-support (3.12.0)
 
 PLATFORMS
-  arm64-darwin-22
-  x86_64-darwin-20
+  arm64-darwin-21
 
 DEPENDENCIES
   byebug
@@ -32,4 +31,4 @@ DEPENDENCIES
   rspec
 
 BUNDLED WITH
-   2.4.1
+   2.4.5
